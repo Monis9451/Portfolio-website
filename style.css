@@ -1,0 +1,18 @@
+/* #background{
+    background-size: cover;
+    width:min-content;
+    height: min-content;
+} */
+
+body {
+    margin: 0; /* Remove default margin */
+    overflow: hidden; /* Prevent scrolling */
+}
+#background {
+    background-image: url('b.jpg'); /* Replace with your image path */
+    background-size: cover; /* Cover the entire viewport */
+    background-repeat: no-repeat; /* Prevent tiling */
+    background-position: center; /* Center the image */
+    width: 100vw; /* Full viewport width */
+    height: 100vh; /* Full viewport height */
+}
