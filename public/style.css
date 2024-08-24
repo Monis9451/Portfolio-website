@@ -11,7 +11,7 @@
 }
 /*------------------->Side corners*/
 .upperCorner, .lowerCorner{
-  width: 20%;
+  width: 275px;
   position: relative;
   z-index: 1;
 }
@@ -26,7 +26,7 @@
 /*------------------->Introduction*/
 .greeting{
   color: #626262;
-  font-size: 2.5vw;
+  font-size: 30px;
   position: absolute;
   z-index: 2;
   left: 18%;
@@ -34,14 +34,14 @@
 }
 .name{
   color: #626262;
-  font-size: 6vw;
+  font-size: 72px;
   position: absolute;
   top: 28%;
   left: 17.8%;
 }
 .skill{
   color: #626262;
-  font-size: 2vw;
+  font-size: 21px;
   position: absolute;
   left: 18%;
   top: 43%;
